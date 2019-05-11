@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/makinah-demo/static/css/main.2cce8147.chunk.css",
+    "main.js": "/makinah-demo/static/js/main.1328dbf3.chunk.js",
+    "main.js.map": "/makinah-demo/static/js/main.1328dbf3.chunk.js.map",
+    "runtime~main.js": "/makinah-demo/static/js/runtime~main.5c0c03c4.js",
+    "runtime~main.js.map": "/makinah-demo/static/js/runtime~main.5c0c03c4.js.map",
+    "static/js/2.3310f33a.chunk.js": "/makinah-demo/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/makinah-demo/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/makinah-demo/index.html",
+    "precache-manifest.c66e880d7670d46e28d6fc46158adc4b.js": "/makinah-demo/precache-manifest.c66e880d7670d46e28d6fc46158adc4b.js",
+    "service-worker.js": "/makinah-demo/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/makinah-demo/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/makinah-demo/static/media/logo.5d5d9eef.svg"
+  }
+}
